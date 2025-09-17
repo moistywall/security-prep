@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week0/week0.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week0"
+              "title": "README"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week0/week0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for week0"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week0/week0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from week0"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week0/week0.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of week0"
+              "title": "Outline of README"
             }
           }
         ]
@@ -214,14 +214,14 @@
   },
   "active": "2a3fe1918b6f5907",
   "lastOpenFiles": [
-    "README.md.md",
+    "Week0/week0.md",
+    "README.md",
     "Week6/week6.md",
     "Week5/week5.md",
     "Week4/week4.md",
     "Week3/week3.md",
     "Week2/week2.md",
     "Week1/week1.md",
-    "Week0/week0.md",
     "Week6",
     "Week5",
     "Week4",
