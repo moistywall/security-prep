@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "1976cdc6d0dfdc8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "548952114c6109c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39b1e78b279a4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week1/week1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week1"
+            }
+          },
+          {
+            "id": "3d745e8d4708d3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week2/week2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week2"
+            }
+          },
+          {
+            "id": "2a3fe1918b6f5907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week0/week0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week0"
+            }
+          },
+          {
+            "id": "89971ec49ee637eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week0/week0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week0"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87814826589f5685",
+    "type": "split",
+    "children": [
+      {
+        "id": "da11a6f0f46742fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04f690f5e230d49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8029d45532759f79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c22d4a3cd7a0627",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6589165816fb3f42",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96b9fca8fb6e894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1681bab78648dfe0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week0/week0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for week0"
+            }
+          },
+          {
+            "id": "38cab6d8ce0708e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week0/week0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from week0"
+            }
+          },
+          {
+            "id": "81dd034900c3a05e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fdc64f92994622cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week0/week0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of week0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a3fe1918b6f5907",
+  "lastOpenFiles": [
+    "README.md.md",
+    "Week6/week6.md",
+    "Week5/week5.md",
+    "Week4/week4.md",
+    "Week3/week3.md",
+    "Week2/week2.md",
+    "Week1/week1.md",
+    "Week0/week0.md",
+    "Week6",
+    "Week5",
+    "Week4",
+    "Week3",
+    "Week2",
+    "Week1",
+    "Week0/2025-09-17.md",
+    "Week0"
+  ]
+}
