@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39b1e78b279a4cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week1/week1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "week1"
-            }
-          },
-          {
             "id": "3d745e8d4708d3f9",
             "type": "leaf",
             "state": {
@@ -41,26 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Week1/week1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "week1"
             }
           },
           {
-            "id": "89971ec49ee637eb",
+            "id": "56d6c89782eed5bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week0/week0.md",
+                "file": "Week1/次回再開手順.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week0"
+              "title": "次回再開手順"
+            }
+          },
+          {
+            "id": "8e23380223776084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "手順メモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "手順メモ"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Week1/次回再開手順.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 次回再開手順"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Week1/次回再開手順.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 次回再開手順"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Week1/次回再開手順.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 次回再開手順"
             }
           }
         ]
@@ -212,23 +212,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a3fe1918b6f5907",
+  "active": "56d6c89782eed5bd",
   "lastOpenFiles": [
+    "Week0/2025-09-17.md",
+    "Week0/2025-09-19.md",
+    "Week1/次回再開手順.md",
+    "Week1/week1.md",
     "Week0/week0.md",
+    "手順メモ.md",
     "README.md",
     "Week6/week6.md",
     "Week5/week5.md",
     "Week4/week4.md",
     "Week3/week3.md",
     "Week2/week2.md",
-    "Week1/week1.md",
     "Week6",
     "Week5",
     "Week4",
     "Week3",
     "Week2",
     "Week1",
-    "Week0/2025-09-17.md",
     "Week0"
   ]
 }
